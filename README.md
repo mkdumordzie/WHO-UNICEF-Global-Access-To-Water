@@ -4,6 +4,7 @@
 ##**Overview**
 
 This project involves the analysis of the global access to good drinking water using two different dataset. One analysis deals with access to water across the three population groups; rural, urban and national and how gross national income(GNI) can affect acountry's or a popuplation group access to safe drinking water for the year 2020. The other deals with how global access to safe drinking water has changed over the period 2000 to 2020.
+
 ---
 
 ##**Project Objectives for the 2020 Dataset**
