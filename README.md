@@ -126,6 +126,7 @@ The The entire project workbook for the estimates on the use of water dataset fr
 ##**Vizualizations**
 
 ![Visuals](Analysis_Report_Visualizations_2020/viz5.png)
+![Visuals](Analysis_Report_Visualizations_2000_2020/viz2.png)
 
 ##**Results and Conclusion**
 
