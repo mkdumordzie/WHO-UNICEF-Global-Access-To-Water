@@ -44,6 +44,7 @@ This project was completed entirely in Google Sheets using:
 ##**Features**
 
 name - The country or area name, income_group - The country’s classification according to income group, pop_n- The national population size estimate, in thousands, pop_u - The urban population share estimate in percentage points (%), _wat_bas_n_ - The estimated national share of people with at least basic service(%)*, _wat_lim_n_ - The estimated national share of people with limited service (%), _wat_unimp_n_ - The estimated national share of people with unimproved service (%), _wat_sur_n_ - The estimated national share of people with surface service (%), _wat_bas_r_ - The estimated rural share of people with at least basic service (%), _wat_lim_r_ - The estimated rural share of people with limited service (%), _wat_unimp_r_ - The estimated rural share of people with unimproved service (%), _wat_sur_r_ - The estimated rural share of people with surface service (%), _wat_bas_u_ - The estimated urban share of people with at least basic service (%), _wat_lim_u_ - The estimated urban share of people with limited service (%), _wat_unimp_u_ - The estimated urban share of people with unimproved service (%), _wat_sur_u_ - The estimated urban share of people with surface service (%), year - The year for which the data was collected for every country for the period 2000 to 2020
+
 ---
 
 ##**Key Functions Used**
@@ -123,6 +124,8 @@ The The entire project workbook for the estimates on the use of water dataset fr
 ---
 
 ##**Vizualizations**
+
+![Visuals](Analysis_Report_Visualizations_2020/viz5.png)
 
 ##**Results and Conclusion**
 
