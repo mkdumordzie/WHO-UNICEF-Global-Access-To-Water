@@ -130,6 +130,8 @@ The The entire project workbook for the estimates on the use of water dataset fr
 
 ##**Results and Conclusion**
 
+This project demonstrates how spreadsheets tools can effectively perfprm data analysis and visualization for reporting. The insights 
+can help the WHO/UNICEF to roll out programmes to provide safe and basic water services for populations with low income and less urbanized.
 
 ##**Author**
 
